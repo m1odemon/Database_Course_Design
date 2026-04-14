@@ -2,7 +2,6 @@
 figma+codex
 =======
 用figma make找前端灵感，用codex完成代码框架
->>>>>>> 9cc4908f16584c5dc94f812987152513f5685863
 基于 `Spring Boot + MyBatis-Plus + MySQL + Vue 3` 的个人作品管理系统，支持作品、标签、感想的基础管理。
 
 ## 目录
