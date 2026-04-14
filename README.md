@@ -1,5 +1,4 @@
 # 电影书籍观后感管理系统
-<<<<<<< HEAD
 figma+codex
 =======
 用figma make找前端灵感，用codex完成代码框架
